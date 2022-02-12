@@ -1,0 +1,10 @@
+# $Id: cvsignore,v 1.1 2001/05/17 20:24:10 pcharles Exp $
+
+# ignore java class files
+*.class
+
+# ignore togetherj generated dfPackage, dfSequence and wmf model files
+*.dfPackage
+*.dfPackage.wmf
+*.dfSequence
+*.dfSequence.wmf

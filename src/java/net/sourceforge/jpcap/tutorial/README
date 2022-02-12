@@ -1,0 +1,11 @@
+$Id: README,v 1.3 2003/03/22 18:51:50 pcharles Exp $
+
+  example1  - Raw packet counter
+  example2  - Raw packet capture with data extraction
+  example3  - Raw packet capture with packet type query
+  example4  - Packet capture with ICMP filtering
+  example5  - ICMP packet counter
+  example6  - ICMP source/destination address query
+  example7  - Extracts text data from a telnet session
+  example15 - SyncPacketCapture example
+  sniffer   - Generic Sniffer application
