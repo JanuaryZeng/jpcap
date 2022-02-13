@@ -8,6 +8,8 @@
 
 # 重新编译
 
+如果不需要重新编译可以跳过此部分。
+
 ## 1、安装libpcap库
 
 ```shell
@@ -90,6 +92,8 @@ net.sourceforge.jpcap-0.01.16.jar
 
 - net.sourceforge.jpcap-0.01.16.jar
 - libjpcap.so
+
+本文编译好的文件放置于dev/releases/jars下。
 
 ## 导入libjpcap.so
 
